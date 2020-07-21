@@ -1,0 +1,5 @@
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\bin\Release\FitnessApp.BL.dll
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\bin\Release\FitnessApp.BL.pdb
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Release\FitnessApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Release\FitnessApp.BL.dll
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Release\FitnessApp.BL.pdb

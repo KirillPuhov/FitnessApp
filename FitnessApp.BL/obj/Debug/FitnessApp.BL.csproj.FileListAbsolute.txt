@@ -1,0 +1,6 @@
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\bin\Debug\FitnessApp.BL.dll
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\bin\Debug\FitnessApp.BL.pdb
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Debug\FitnessApp.BL.csprojAssemblyReference.cache
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Debug\FitnessApp.BL.csproj.CoreCompileInputs.cache
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Debug\FitnessApp.BL.dll
+C:\Users\micro\source\repos\FitnessApp\FitnessApp.BL\obj\Debug\FitnessApp.BL.pdb
